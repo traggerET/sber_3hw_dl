@@ -1,0 +1,11 @@
+---
+embedding_size: 510
+dim_feedforward: 256
+hidden_size: 256
+n_heads_attention: 6
+n_encoders: 4
+n_decoders: 4
+learning_rate: 0.0001
+dropout: 0.1
+epoch_num: 30
+try_one_batch: False
